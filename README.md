@@ -1,9 +1,16 @@
 ## Hi there 👋
 
-<!--
-**paulrainy/paulrainy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hi,%20I'm%20Paul%20👋&fontSize=50&animation=fadeIn" alt="Header" />
+</div>
 
-Here are some ideas to get you started:
+<br/>
+
+<!-- ABOUT ME -->
+<div align="center">
+  <h3>👨‍💻 About Me</h3>
+  <p>I am a developer who loves turning ideas into code.</p>
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,28 +20,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-<!-- ШАПКА -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Привет,%20я%20Паша%20👋&fontSize=50&animation=fadeIn" alt="Header" />
-</div>
-
-<br/>
-
-<!-- О СЕБЕ -->
-<div align="center">
-  <h3>👨‍💻 Обо мне</h3>
-  <p>Я разработчик, который любит превращать идеи в код.</p>
-  <p>🌱 Сейчас изучаю: <strong>Новые технологии</strong> | 🔭 Работаю над: <strong>Интересными проектами</strong></p>
-</div>
 
 <hr/>
 
-<!-- СКИЛЛЫ -->
+<!-- TECH STACK -->
 <div align="center">
-  <h3>🛠️ Технологии и Инструменты</h3>
-  <!-- Замените иконки в ?i= на те, что вам нужны, через запятую -->
+  <h3>🛠️ Tech Stack & Tools</h3>
+  <!-- Replace icons in ?i= with the ones you need, separated by commas -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,express,py,git,docker,vscode" alt="My Skills" />
   </a>
@@ -42,18 +34,18 @@ Here are some ideas to get you started:
 
 <hr/>
 
-<!-- СТАТИСТИКА -->
+<!-- STATS -->
 <div align="center">
-  <h3>📊 Статистика GitHub</h3>
+  <h3>📊 GitHub Stats</h3>
   
   <table border="0">
     <tr>
       <td>
-        <!-- Основная статистика -->
+        <!-- Main Stats -->
         <img src="https://github-readme-stats.vercel.app/api?username=paulrainy&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
       </td>
       <td>
-        <!-- Счетчик активности (Streak) -->
+        <!-- Streak Stats -->
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulrainy&theme=radical&hide_border=true" alt="Streak" />
       </td>
     </tr>
@@ -61,20 +53,20 @@ Here are some ideas to get you started:
   
   <br/>
   
-  <!-- Топ языков -->
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulrainy&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </div>
 
 <hr/>
 
-<!-- СОЦСЕТИ И РАЗНОЕ -->
+<!-- CONNECT -->
 <div align="center">
-  <h3>🤝 Связаться со мной</h3>
+  <h3>🤝 Connect with me</h3>
   
-  <a href="https://t.me/ТВОЙ_ТЕЛЕГРАМ" target="_blank">
+  <a href="https://t.me/paulrainy" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="mailto:ТВОЯ_ПОЧТА@example.com">
+  <a href="mailto:inbox@paulrainy.ru">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
@@ -82,6 +74,6 @@ Here are some ideas to get you started:
 <br/>
 
 <div align="center">
-  <!-- Счетчик посетителей (опционально) -->
+  <!-- View Counter (Optional) -->
   <img src="https://komarev.com/ghvc/?username=paulrainy&color=blue&style=flat-square" alt="Views" />
 </div>
