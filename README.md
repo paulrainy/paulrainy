@@ -1,11 +1,11 @@
 <table align="center" style="border: none;">
   <tr>
-    <td style="border: 2px solid #444; padding: 15px; background: #1a1a2e; color: #fff; font-family: monospace; white-space: pre;" colspan="2">★  Hi there, I'm Pavel Kolyagin
-────────────────────────────────────────────────────────────────
-🛠 SDET | Automation QA | MLops & AI Agent Developer 
-Currently working on:
-  ► AI-powered testing automation
-  ► ML models for test optimization</td>
+    <td style="border: 2px solid #444; padding: 15px; background: #1a1a2e; color: #fff; font-family: monospace; font-size: 12pt;" colspan="2">★  Hi there, I'm Pavel Kolyagin <br/>
+    ─────────────────────────────────────────────────────────<br/>
+🛠  SDET | Automation QA | MLOps & AI Agent Developer <br/><br/>
+      Currently working on: <br/>
+         ► RAG-powered testing automation <br/>
+         ► Load testing analisys solution</td>
   </tr>
   <tr>
     <td style="border: 2px solid #444; background: #1a1a2e;" align="center">
