@@ -10,7 +10,7 @@
     </td>
   </tr>
   <tr>
-    <td style="box-sizing: border-box; border: 2px solid #444; background: #1a1a2e; padding: 15px;" align="center">
+    <td style="box-sizing: border-box; border: 2px solid #444; background: #1a1a2e; padding: 15px; display: flex;" align="center">
       <img style="box-sizing: border-box; margin: 5px; max-width: 100%;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdyN2szMm13YmFneTJ2dnh5N3Iza3ZuZjduY2NnbGJjOGNrcnB4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Sq72gPlwox4o2n6/giphy.gif" width="200" alt="GIF"/>
       <img style="box-sizing: border-box; margin: 5px; max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulrainy&layout=compact&theme=nord" alt="Top Langs" />
     </td>
