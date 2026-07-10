@@ -11,7 +11,7 @@
           <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand" /> Hi there, I'm Pavel Kolyagin
         </h1>
         <h3>
-          🛠 SDET | Automation QA | MLOps <br>
+          🛠 SDET | QA automation | Internal tools & AI <br>
         </h3>
         <p>
         Currently working on: <br/>
