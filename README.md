@@ -1,12 +1,12 @@
 <div align="left">
   <table>
     <tr>
-      <td>
+      <td width="45%">
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdyN2szMm13YmFneTJ2dnh5N3Iza3ZuZjduY2NnbGJjOGNrcnB4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Sq72gPlwox4o2n6/giphy.gif" width="100%"/>
         <br />
-        <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=paulrainy&layout=compact&theme=nord&hide=jupyter%20notebook&langs_count=6" width="100%"/>
+        <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=paulrainy&layout=compact&theme=nord&hide=jupyter%20notebook&langs_count=5" width="100%"/>
       </td>
-      <td>
+      <td width="55%">
         <h1>
           <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand" /> Hi there, I'm Pavel Kolyagin
         </h1>
