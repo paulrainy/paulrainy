@@ -37,7 +37,6 @@
           <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
           <img src="https://img.shields.io/badge/Transformers-FFC107?style=for-the-badge&logoColor=black"/>
           <img src="https://img.shields.io/badge/Camel--AI-FF7043?style=for-the-badge&logo=apachecamel&logoColor=white"/>
-          <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
           <br />
           <strong>Databases</strong><br>
           <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
