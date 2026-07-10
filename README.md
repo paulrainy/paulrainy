@@ -20,7 +20,6 @@
         Currently working on: <br/>
           ► RAG pipeline that generates autotests from test cases<br>
           ► Load-testing analytics platform<br>
-          ► Down Detector — test-environment monitoring
         </p>
         <h2>🛠️ My tech Stack</h2>
         <p>
@@ -29,14 +28,12 @@
           <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
           <img src="https://img.shields.io/badge/FastAPI-00BFA5?style=for-the-badge&logo=fastapi&logoColor=white"/>
-          <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
           <br />
           <strong>Frontend</strong><br>
           <img src="https://img.shields.io/badge/Streamlit-FF6B81?style=for-the-badge&logo=streamlit&logoColor=white"/>
           <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
           <br />
           <strong>Machine Learning & AI</strong><br>
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
           <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
           <img src="https://img.shields.io/badge/Transformers-FFC107?style=for-the-badge&logoColor=black"/>
           <img src="https://img.shields.io/badge/Camel--AI-FF7043?style=for-the-badge&logo=apachecamel&logoColor=white"/>
