@@ -15,7 +15,7 @@
     ► Dyak app - drafts meeting-protocol spreadsheets from call recordings<br>
   </p>
 
-  <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=paulrainy&layout=compact&theme=nord&hide=jupyter%20notebook,html&langs_count=5" width="350"/>
+  <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=paulrainy&layout=compact&theme=nord&hide=jupyter%20notebook,html,css&langs_count=5" width="350"/>
 
   <h2>🛠️ My tech Stack</h2>
   <p>
